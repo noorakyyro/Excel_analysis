@@ -15,9 +15,9 @@ All duplicate entries were identified and removed to ensure each record was uniq
 ### Standardizing Values:
 The columns for marital status and gender were cleaned up to avoid confusion. The values:
 
-M -> Married
-S -> Single
-M -> Male
+M -> Married,
+S -> Single,
+M -> Male,
 F -> Female
 
 ### Formatting Income Data:
@@ -44,8 +44,8 @@ The third pivot table explores how age brackets relate to bike purchases.
 ## Dashboard Creation
 A dashboard was created to visualize the insights from the pivot tables. This includes:
 
-### Pivot Tables: Key pivot tables are displayed to summarize findings.
-### Slicers: Interactive slicers were added to allow users to filter data based on specific criteria, enhancing user engagement and analysis capabilities.
+Pivot Tables: Key pivot tables are displayed to summarize findings.
+Slicers: Interactive slicers were added to allow users to filter data based on specific criteria, enhancing user engagement and analysis capabilities.
 
 
 
